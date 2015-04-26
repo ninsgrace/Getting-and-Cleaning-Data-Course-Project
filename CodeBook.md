@@ -1,7 +1,10 @@
-Data Source
+Data Source  
+
 This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally made avaiable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Thes signals were used to estimate variables of the feature vector for each pattern:  
+Dataset Information
+
+Below are the signals that were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.  
 tBodyAcc-XYZ  
 tGravityAcc-XYZ  
