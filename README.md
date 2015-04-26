@@ -17,6 +17,4 @@ run_analysis.R will perform below operations:
 4. Appropriately labels the data set with descriptive variable names.   
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.    
 
-Data Information
-==
-Information on data and variables please refer to CodeBook.md
+Information on activities, measurement and variables names are found in <b>CodeBook.md
